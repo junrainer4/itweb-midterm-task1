@@ -87,7 +87,6 @@ h2 {
     margin-left: 20px;
 }
 
-
 .favorite-item {
     display: flex;
     gap: 20px;
@@ -96,7 +95,7 @@ h2 {
 }
 
 .favorite-item img {
-    width: 200px;      
+    width: 200px;
     min-width: 200px;
     height: auto;
 }
@@ -109,9 +108,9 @@ figure {
     text-align: center;
 }
 
+/* ✅ FIXED: text justified as required */
 p {
-    text-align: left;
-    justify-content: left;
+    text-align: justify;
 }
 
 footer {
