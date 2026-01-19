@@ -108,7 +108,6 @@ figure {
     text-align: center;
 }
 
-/* ✅ FIXED: text justified as required */
 p {
     text-align: justify;
 }
